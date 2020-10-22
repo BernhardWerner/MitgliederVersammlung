@@ -7,8 +7,8 @@ Der Vorstand beantragt folgende Richtlinien für die Vergabe des Titels "Bayeris
      * entspricht den o.g Anforderungen, aber
        * ist begrenzt auf qualifizierte Teilnehmer
        * die Qualifikation kann in einer Vorrunde erreicht werden.
-     * In diesem Fall sind die Modalitäten der Vorrunde mit dem Vorstand abzustimmen.
-     * In diesem Fall soll der Titelhalter als qualifiziert gelten.
+       In diesem Fall sind die Modalitäten der Vorrunde mit dem Vorstand abzustimmen.
+       In diesem Fall soll der Titelhalter als qualifiziert gelten.
    * Das Turnier wurde dem Vorstand als Meisterschaftsturnier vorgeschlagen
    * Der Vorstand hat dem Turnier zugestimmt und den Termin veröffentlicht
    * Das Turnier soll in Bayern ausgetragen werden
